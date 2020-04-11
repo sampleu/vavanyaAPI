@@ -12,7 +12,7 @@
     {
         "_id": "5e8667b30ca7a88af4547264",
         "client_id": "5c61ed6af949cb6bd01654b9",
-        "brick_type": "brick_test",
+        "brick_type": "brick_test_1",
         "brick_caption": "Login screen",
         "controls": [
             {
@@ -36,23 +36,13 @@
     {
         "_id": "5e8667b30ca7a88af4547264",
         "client_id": "5c61ed6af949cb6bd01654b9",
-        "brick_type": "brick_test",
-        "brick_caption": "Login screen",
+        "brick_type": "brick_test_2",
+        "brick_caption": "Welcome",
         "controls": [
             {
                 "_id": "5e8667b30ca7a88af4547267",
                 "name": "User Name",
                 "ID": "*//usr"
-            },
-            {
-                "_id": "5e8667b30ca7a88af4547266",
-                "name": "Password",
-                "ID": "*//pwd"
-            },
-            {
-                "_id": "5e8667b30ca7a88af4547265",
-                "name": "Login",
-                "ID": "*//loginBtn"
             }
         ],
         "__v": 0
@@ -60,8 +50,8 @@
     {
         "_id": "5e8667b30ca7a88af4547264",
         "client_id": "5c61ed6af949cb6bd01654b9",
-        "brick_type": "brick_test",
-        "brick_caption": "Login screen",
+        "brick_type": "brick_test_3",
+        "brick_caption": "Good bye!",
         "controls": [
             {
                 "_id": "5e8667b30ca7a88af4547267",
@@ -69,14 +59,9 @@
                 "ID": "*//usr"
             },
             {
-                "_id": "5e8667b30ca7a88af4547266",
-                "name": "Password",
-                "ID": "*//pwd"
-            },
-            {
                 "_id": "5e8667b30ca7a88af4547265",
-                "name": "Login",
-                "ID": "*//loginBtn"
+                "name": "OK",
+                "ID": "*//okBtn"
             }
         ],
         "__v": 0
